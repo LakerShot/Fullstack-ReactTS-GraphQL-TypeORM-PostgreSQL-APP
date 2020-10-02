@@ -1,0 +1,8 @@
+query allProducts{
+  allProducts {
+    title,
+    id,
+    imgSrcUrl,
+    about_product
+  }
+}
