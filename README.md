@@ -17,8 +17,8 @@ ACCESS_TOKEN_SECRET=YOUR_SECRET_KEY
 REFRESH_TOKEN_SECRET=YOUR_SECRET_KEY
 ```
 - In order to run this project 
-  - go to server folder -> open terminal and run the command ```npm run server```
-  - go to frontend folder -> open terminal and run the command ```npm start```
+  - go to server folder -> open terminal and run the command ```yarn server```
+  - go to frontend folder -> open terminal and run the command ```yarn start```
 ---
 
 ### That's all :D
