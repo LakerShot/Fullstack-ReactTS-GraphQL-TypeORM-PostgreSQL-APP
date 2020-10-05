@@ -8,7 +8,8 @@ The way it look's like (Not finished ❗) 👇🏼
 # How to use it ?
 
  - Create a Postgre Database and add your DB credentials to the ormconfig.json file
- - Create a file `.env` at the server of the project
+ - Create a file `.env` in a server folder
+
  
  ```
 .env file
