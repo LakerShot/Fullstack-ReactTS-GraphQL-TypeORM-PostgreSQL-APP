@@ -24,4 +24,4 @@ REFRESH_TOKEN_SECRET=YOUR_SECRET_KEY
 
 ### That's all :D
 
-Copyright (c) 2020 Mark
+Copyright (c) 2020 LakerShot
